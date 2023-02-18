@@ -16,7 +16,7 @@ For this project you only need Python3, because this project only use buil-in fu
 
 ***
 ## How does the project work
-First you need to click on share and remenber/copy the lasts Letters of the youtube link (like the marked letters in the picture below).
+First you need to click on share and remenber/copy the lasts Letters of the youtube link (like in the followed video).
 
 
 <img width="852" alt="Bildschirmfoto 2023-02-12 um 10 49 26 AM" src="https://user-images.githubusercontent.com/104990959/218304041-81974cf0-2095-4c86-8bf3-4519b4d2afd5.png">
